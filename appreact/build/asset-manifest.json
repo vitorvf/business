@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67b95648.chunk.css",
+    "main.js": "/static/js/main.2473fad5.chunk.js",
+    "main.js.map": "/static/js/main.2473fad5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc9fab4d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc9fab4d.js.map",
+    "static/css/2.4c78c274.chunk.css": "/static/css/2.4c78c274.chunk.css",
+    "static/js/2.df006cba.chunk.js": "/static/js/2.df006cba.chunk.js",
+    "static/js/2.df006cba.chunk.js.map": "/static/js/2.df006cba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c78c274.chunk.css.map": "/static/css/2.4c78c274.chunk.css.map",
+    "static/css/main.67b95648.chunk.css.map": "/static/css/main.67b95648.chunk.css.map",
+    "static/js/2.df006cba.chunk.js.LICENSE.txt": "/static/js/2.df006cba.chunk.js.LICENSE.txt",
+    "static/media/atuacao.ba89d7b0.png": "/static/media/atuacao.ba89d7b0.png",
+    "static/media/estilo.css": "/static/media/contatos.73ae0f67.png",
+    "static/media/estrutura1.fc31f83b.jpg": "/static/media/estrutura1.fc31f83b.jpg",
+    "static/media/estrutura2.cc34db8b.jpg": "/static/media/estrutura2.cc34db8b.jpg",
+    "static/media/estrutura3.02993f1d.jpg": "/static/media/estrutura3.02993f1d.jpg",
+    "static/media/estrutura4.52ebc462.jpg": "/static/media/estrutura4.52ebc462.jpg",
+    "static/media/estrutura5.edd37552.jpg": "/static/media/estrutura5.edd37552.jpg",
+    "static/media/estrutura6.9622f218.jpg": "/static/media/estrutura6.9622f218.jpg",
+    "static/media/garoto.58140b34.png": "/static/media/garoto.58140b34.png",
+    "static/media/maquina.61385565.png": "/static/media/maquina.61385565.png",
+    "static/media/mulhersentada.afe65585.jpg": "/static/media/mulhersentada.afe65585.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9fab4d.js",
+    "static/css/2.4c78c274.chunk.css",
+    "static/js/2.df006cba.chunk.js",
+    "static/css/main.67b95648.chunk.css",
+    "static/js/main.2473fad5.chunk.js"
+  ]
+}
